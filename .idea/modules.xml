@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BarcodeDecoder.iml" filepath="$PROJECT_DIR$/BarcodeDecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcodedecoder-build/barcodedecoder-build.iml" filepath="$PROJECT_DIR$/barcodedecoder-build/barcodedecoder-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcodedecoder-client/barcodedecoder-client.iml" filepath="$PROJECT_DIR$/barcodedecoder-client/barcodedecoder-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcodedecoder-common/barcodedecoder-common.iml" filepath="$PROJECT_DIR$/barcodedecoder-common/barcodedecoder-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcodedecoder-designer/barcodedecoder-designer.iml" filepath="$PROJECT_DIR$/barcodedecoder-designer/barcodedecoder-designer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcodedecoder-gateway/barcodedecoder-gateway.iml" filepath="$PROJECT_DIR$/barcodedecoder-gateway/barcodedecoder-gateway.iml" />
+    </modules>
+  </component>
+</project>
